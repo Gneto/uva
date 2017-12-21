@@ -2,7 +2,7 @@
 """
 Created on Thu Nov 23 16:05:49 2017
 
-@author: f7813959
+@author: 
 """
 
 input = open('salary.txt')
